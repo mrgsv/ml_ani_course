@@ -1,2 +1,2 @@
-# ml_ani_course
-HW for ML course
+# Very simple example of Spotify track popularity prediction
+## HW for ML course
